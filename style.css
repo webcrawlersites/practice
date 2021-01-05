@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+h1 {
+  font-size: 35px;
+  color: #192331;
+}
+
+hr {
+  height: 5px;
+  background-color: lightblue;
+}
